@@ -3,7 +3,7 @@ import java.util.*;
 /**
 	The PascalTriangle class is used to create Pascal Triangle objects.
 	@author Jeremy Hill
-    @version 12.0.2
+    	@version 12.0.2
  */
 public class PascalTriangle
 { 
